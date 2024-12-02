@@ -1,1 +1,1 @@
-![Description of Image](Giaodien/1.png)
+![Description of Image](Wordpress/Giaodien/1.png)
