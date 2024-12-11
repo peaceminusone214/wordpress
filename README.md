@@ -1,3 +1,4 @@
+Link host: http://thienphuc.lovestoblog.com/
 Dưới đây là giao diện của trang Web:
 
 ![First Image](Giaodien/1.jpg)
